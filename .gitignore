@@ -1,0 +1,11 @@
+#UE4 Generated Files
+*/Build
+*/Intermediate
+*/Binaries
+*/Saved
+*/DerivedDataCache
+BuildingEscape/Content/StarterContent/
+
+#VS files
+*.VC.db
+*.VC.VC.opendb
